@@ -2,7 +2,7 @@
 
 I'm Manraj Mondair, a third-year high school student at Floyd B. Buchanan High School; currently, I am expanding my software engineer endeavours throughout many companies and research facilities.
 
-I'm extremely passionate about computer science, entreprenuership, innovation, and software development. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineer and development.
+I'm extremely passionate about computer science, entrepreneurship, innovation, and software development. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering and development.
 
 I wholeheartedly love collaborating with new individuals, so if you are looking to make a friendship, or even start an innovative project, I am always arms-open to chatting [here](https://calendly.com/manraj-mondair/30min).
 
