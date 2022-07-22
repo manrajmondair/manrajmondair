@@ -6,7 +6,7 @@ I'm extremely passionate about computer science, entreprenuership, innovation, a
 
 I wholeheartedly love collaborating with new individuals, so if you are looking to make a friendship, or even start an innovative project, I am always arms-open to chatting [here](https://calendly.com/manraj-mondair/30min).
 
-- 🤝 I’m looking to collaborate on entreprenuerial projects that use technology to better the world
+- 🤝 I’m looking to collaborate on entrepreneurial projects that use technology to better the world
 - 📫 How to reach me: manrajmondair@gmail.com
 - 😄 Pronouns: He/His/Him
 
