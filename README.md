@@ -11,10 +11,10 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - 😄 Pronouns: He/His/Him
 
 **Skills**
-- Languages - Python, Java, HTML, CSS, C++, Arduino, MATLAB, GNU Octave, JavaScript
-- Libraries - TensorFlow, Pandas, OpenCV, NumPy, Keras, Matplotlib, PyTorch
+- Languages - Python, Java, HTML, CSS, C++, Arduino, MATLAB, GNU Octave, JavaScript, Swift, R, SQL
+- Libraries - TensorFlow, Pandas, OpenCV, NumPy, Keras, Matplotlib, PyTorch, SwiftUI, Shiny
 - Tools - GitHub, NASA GMAT, Microsoft VS Code, Textpad, WordPres
-- Design - Canva, Adobe Illustrator
+- Design - Canva, Adobe Illustrator, Figma
 
 **Links**
 - [Linkedin](https://www.linkedin.com/in/manrajmondair/) - Learn more about my passions and how I make them tangible
