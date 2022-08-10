@@ -21,12 +21,13 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - [Desert Stem Education Article @ LA Times](https://highschool.latimes.com/buchanan-high-school/halted-stem-growth-desert-education/) - What I passionately work towards fixing
 
 **Experiences**
-- Computational Research Intern @ **Harvard Medical School** - developing a database used to manage and manipulate patient data
+- Quantum Machine Learning Resaerch Intern @ **Argonne National Laboratory** - resolving the fluctuation of quantum noise (T1 and T2) on superconductive quantum computers
+- Database Developer Intern @ **Harvard Medical School** - developing a database used to manage and manipulate patient data
 - Computational Research Intern @ **Stanford University** - computational neuroscience research
-- Computational Research Intern @ **Princeton University** - computational research
+- Data Science Research Intern @ **Princeton University** - synthesizing the most optimal hardware/software for scientific research
 - Machine Learning Intern @ **University of Southern California, Viterbi** - convolutional deep learning for vision-based robotics
 - Computational Research Intern @ **California State University, Fresno, Lyles** - advancement of differential aerospace equation via sample mission outputs 
-- Software Engineer Intern @ **Comet** - all-in-one college task manager platform startup 
+- Software Engineer Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
 - CEO & Technical Founder @ **To Educate Adolescent Minds (T.E.A.M.)** - leveraging computer science to build a educational foundation in various fields of knowledge for passionate students
 - Software Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
