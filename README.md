@@ -32,4 +32,4 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - Software Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
 **Resume**
-- [Click Here](https://drive.google.com/file/d/1umUavEz23O6ymGNcgKr_7jvhIS_6Igbs/view?usp=sharing) - Feel free to contact me for any business inquiries
+- [Click Here](https://drive.google.com/file/d/1oeoKLqV7dZJvmomiXdee9lHlo59iKm-Q/view?usp=sharing) - Feel free to contact me for any business inquiries
