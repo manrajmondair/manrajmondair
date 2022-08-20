@@ -2,7 +2,7 @@
 
 I'm Manraj Mondair, a third-year high school student at Floyd B. Buchanan High School; currently, I am expanding my software engineer endeavours throughout many companies and research facilities.
 
-I'm extremely passionate about computer science, entrepreneurship, innovation, and software development. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering and development.
+I'm extremely passionate about computer science, entrepreneurship, innovation, and software development. I truly love tying in machine learning/artifical intelligence and entrepreneurship to make a difference in our communities. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering and development.
 
 I wholeheartedly love collaborating with new individuals, so if you are looking to make a friendship, or even start an innovative project, I am always arms-open to chatting [here](https://calendly.com/manraj-mondair/30min).
 
@@ -23,11 +23,11 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 **Experiences**
 - Quantum Machine Learning Resaerch Intern @ **Argonne National Laboratory** - resolving the fluctuation of quantum noise (T1 and T2) on superconductive quantum computers
 - Database Developer Intern @ **Harvard Medical School** - developing a database used to manage and manipulate patient data
-- Computational Research Intern @ **Stanford University** - computational neuroscience research
+- Data Analysis Research Intern @ **Stanford University** - analyzing databases to conclude the most optimal assembly protein
 - Data Science Research Intern @ **Princeton University** - synthesizing the most optimal hardware/software for scientific research
 - Machine Learning Intern @ **University of Southern California, Viterbi** - convolutional deep learning for vision-based robotics
 - Computational Research Intern @ **California State University, Fresno, Lyles** - advancement of differential aerospace equation via sample mission outputs 
-- Software Engineer Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
+- Full Stack Developer Intern Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
 - CEO & Technical Founder @ **To Educate Adolescent Minds (T.E.A.M.)** - leveraging computer science to build a educational foundation in various fields of knowledge for passionate students
 - Software Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
