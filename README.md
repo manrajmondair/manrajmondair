@@ -27,7 +27,7 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - Data Science Research Intern @ **Princeton University** - synthesizing the most optimal hardware/software for scientific research
 - Machine Learning Intern @ **University of Southern California, Viterbi** - convolutional deep learning for vision-based robotics
 - Computational Research Intern @ **California State University, Fresno, Lyles** - advancement of differential aerospace equation via sample mission outputs 
-- Full Stack Developer Intern Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
+- Full Stack Developer Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
 - CEO & Technical Founder @ **To Educate Adolescent Minds (T.E.A.M.)** - leveraging computer science to build a educational foundation in various fields of knowledge for passionate students
 - Software Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
