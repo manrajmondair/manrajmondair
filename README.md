@@ -21,7 +21,7 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - [Desert Stem Education Article @ LA Times](https://highschool.latimes.com/buchanan-high-school/halted-stem-growth-desert-education/) - What I passionately work towards fixing
 
 **Experiences**
-- Quantum Machine Learning Resaerch Intern @ **Argonne National Laboratory** - resolving the fluctuation of quantum noise (T1 and T2) on superconductive quantum computers
+- Quantum Machine Learning Research Intern @ **Argonne National Laboratory** - resolving the fluctuation of quantum noise (T1 and T2) on superconductive quantum computers
 - Database Developer Intern @ **Harvard Medical School** - developing a database used to manage and manipulate patient data
 - Data Analysis Research Intern @ **Stanford University** - analyzing databases to conclude the most optimal assembly protein
 - Data Science Research Intern @ **Princeton University** - synthesizing the most optimal hardware/software for scientific research
