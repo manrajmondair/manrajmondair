@@ -29,7 +29,6 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - Computational Research Intern @ **California State University, Fresno, Lyles** - advancement of differential aerospace equation via sample mission outputs 
 - Full Stack Developer Intern @ **Comet** - engineering an all-in-one college task manager platform startup 
 - CEO & Technical Founder @ **To Educate Adolescent Minds (T.E.A.M.)** - leveraging computer science to build a educational foundation in various fields of knowledge for passionate students
-- Software Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
 **Resume**
 - [Click Here](https://drive.google.com/file/d/1GP241rCfRCMxDvdf8_fTJEeoGZhkptbI/view?usp=sharing) - Feel free to contact me for any business inquiries
