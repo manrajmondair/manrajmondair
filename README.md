@@ -30,4 +30,4 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - CEO & Technical Founder @ **To Educate Adolescent Minds (T.E.A.M.)** - leveraging computer science to build a educational foundation in various fields of knowledge for passionate students
 
 **Resume**
-- [Click Here](https://drive.google.com/file/d/1GP241rCfRCMxDvdf8_fTJEeoGZhkptbI/view?usp=sharing) - Feel free to contact me for any business inquiries
+- [Click Here](https://drive.google.com/file/d/1GP241rCfRCMxDvdf8_fTJEeoGZhkptbI/view?usp=sharing](https://drive.google.com/file/d/1yeTK379wrN1lLrqC7seLpQLqT-xarB11/view?usp=sharing) - Feel free to contact me for any business inquiries
