@@ -1,6 +1,6 @@
 ### Hello, thanks for checking out my profile! 👋
 
-I'm Manraj Mondair, a fourth-year high school student at Floyd B. Buchanan High School; currently, I am expanding my software engineer endeavors throughout many companies and research facilities.
+I'm Manraj Mondair, an undergraduate student at Stanford University studying Computer Science with a concentration in Artificial Intelligence; currently, I am expanding my software engineer endeavors throughout many companies and research facilities.
 
 I'm extremely passionate about computer science, entrepreneurship, innovation, and software development. I truly love tying in machine learning/artifical intelligence and entrepreneurship to make a difference in our communities. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering and development.
 
