@@ -20,4 +20,4 @@ I wholeheartedly love collaborating with new individuals, so if you are looking 
 - [Linkedin](https://www.linkedin.com/in/manrajmondair/) - Learn more about my passions and how I make them tangible
 
 **Resume**
-- [Click Here](https://drive.google.com/file/d/1yeTK379wrN1lLrqC7seLpQLqT-xarB11/view?usp=sharing) - Feel free to contact me for any business inquiries
+- [Click Here](https://drive.google.com/file/d/1iJh-71YRrTbEXripQUn2hp4ltYTvn889/view?usp=sharing) - Feel free to contact me for any business inquiries
